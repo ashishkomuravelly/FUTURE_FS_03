@@ -1,4 +1,4 @@
-# 🏡 NomadNest - AI-Powered Airbnb Rebrand
+# 🏡 Airbnb - AI-Powered Airbnb Rebrand
 
 A modern, comprehensive rebrand of Airbnb featuring AI-enhanced functionality and a fresh, contemporary design. Built with cutting-edge web technologies and production-ready components.
 
